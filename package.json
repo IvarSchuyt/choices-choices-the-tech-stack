@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IvarSchuyt/choices-choices-the-tech-stack/issues"
   },
-  "homepage": "https://github.com/IvarSchuyt/choices-choices-the-tech-stack#readme"
+  "homepage": "https://github.com/IvarSchuyt/choices-choices-the-tech-stack#readme",
+  "dependencies": {
+    "@nuxtjs/sanity": "^1.8.1"
+  }
 }
