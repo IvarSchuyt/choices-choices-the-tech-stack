@@ -1,0 +1,19 @@
+{
+  "name": "choices-choices-the-tech-stack",
+  "version": "1.0.0",
+  "description": "> _Fork_ deze leertaak en ga aan de slag. \r Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. \r De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvarSchuyt/choices-choices-the-tech-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvarSchuyt/choices-choices-the-tech-stack/issues"
+  },
+  "homepage": "https://github.com/IvarSchuyt/choices-choices-the-tech-stack#readme"
+}
