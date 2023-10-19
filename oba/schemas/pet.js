@@ -7,6 +7,11 @@ export default {
         name: 'name',
         type: 'string',
         title: 'Name'
+      },
+      {
+        name: 'height',
+        type: 'string',
+        title: 'Height'
       }
     ]
   }
