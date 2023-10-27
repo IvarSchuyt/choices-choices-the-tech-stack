@@ -12,6 +12,11 @@ export default {
         name: 'height',
         type: 'string',
         title: 'Height'
+      },
+      {
+        name: 'image',
+        type: 'image'
       }
+
     ]
   }
