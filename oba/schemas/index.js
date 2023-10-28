@@ -1,2 +1,2 @@
-import pet from './pet'
-export const schemaTypes = [pet]
+import betaling from './betaling'
+export const schemaTypes = [betaling]
