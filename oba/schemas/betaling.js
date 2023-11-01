@@ -4,9 +4,9 @@ export default {
   title: 'betaling',
   fields: [
     {
-      name: 'soortBetaling',
+      name: 'soortbetaling',
       type: 'string',
-      title: 'soortBetaling',
+      title: 'soortbetaling',
     },
     {
       name: 'betaaldatum',
@@ -27,6 +27,6 @@ export default {
       name: 'details',
       type: 'string',
       title: 'details',
-    },
-  ],
+    }
+  ]
 }

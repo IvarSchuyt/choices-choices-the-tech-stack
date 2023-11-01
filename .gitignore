@@ -27,3 +27,12 @@
 
 # Dotenv and similar local-only files
 *.local
+
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
